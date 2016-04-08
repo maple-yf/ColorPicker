@@ -1,0 +1,10 @@
+E:\作品\WinForm\拾色器\拾色器\bin\Debug\拾色器.exe
+E:\作品\WinForm\拾色器\拾色器\bin\Debug\拾色器.pdb
+E:\作品\WinForm\拾色器\拾色器\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\作品\WinForm\拾色器\拾色器\obj\x86\Debug\拾色器.Form1.resources
+E:\作品\WinForm\拾色器\拾色器\obj\x86\Debug\拾色器.Properties.Resources.resources
+E:\作品\WinForm\拾色器\拾色器\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+E:\作品\WinForm\拾色器\拾色器\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+E:\作品\WinForm\拾色器\拾色器\obj\x86\Debug\拾色器.exe
+E:\作品\WinForm\拾色器\拾色器\obj\x86\Debug\拾色器.pdb
+E:\作品\WinForm\拾色器\拾色器\obj\x86\Debug\拾色器.ruler.resources
